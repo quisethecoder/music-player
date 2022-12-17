@@ -59,3 +59,17 @@ body{
     align-items: center;
     margin-bottom: 30px;
 }
+
+.active{
+    color: black;
+}
+
+.repeat-track,
+.random-track,
+.playpause-track,
+.prev-track,
+.next-track{
+    padding: 25px;
+    opacity: 0.8;
+    transition: opacity .2s;
+}
