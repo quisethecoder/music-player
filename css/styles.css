@@ -52,3 +52,10 @@ body{
     margin-top: 5px;
     font-size: 1.5rem;
 }
+
+.buttons{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 30px;
+}
