@@ -39,3 +39,7 @@ body{
     -webkit-border-radius: 190px;
     border-radius: 190px;
 }
+
+.now-playing{
+    font-size: 1rem;
+}
