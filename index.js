@@ -69,4 +69,6 @@ const music_list = [
         artist: "Joy Crookes",
         music: "music/feetdontfail.mp3"
     }
-]
+];
+
+loadTrack(track_index);
