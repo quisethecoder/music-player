@@ -87,3 +87,14 @@ body{
     justify-content: center;
     align-items: center;
 }
+
+.seek_slider,
+.volume_slider{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    height: 5px;
+    background: #83a9ff;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+}
