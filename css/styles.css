@@ -142,3 +142,36 @@ i.fa-step-forward,
 i.fa-step-backward{
     cursor: pointer;
 }
+
+.randomActive{
+    color: black;
+}
+
+.rotate{
+    animation: rotation 8s infinite linear;
+}
+
+@keyframes rotation{
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+        transform: rotate(359deg);
+    }
+}
+
+.loader{
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.loader, .stroke{
+    background: #f1f1f1;
+    height: 150%;
+    width: 10px;
+    border-radius: 50px;
+    margin: 0px 50px;
+    animation: animate 1.4s linear infinite;
+}
