@@ -28,10 +28,10 @@ const music_list = [
         music: "music/fallingdown.mp3"
     },
     {
-        img : "images/falling.jpg",
+        img : "images/sunfade.jpg",
         name: "Falling Down",
         artist: "Wid Cards",
-        music: "music/fallingdown.mp3"
+        music: "music/"
     },
     {
         img : "images/falling.jpg",
