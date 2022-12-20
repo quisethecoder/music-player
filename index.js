@@ -68,5 +68,5 @@ const music_list = [
         name: "Feet Don't Fail Me Now",
         artist: "Joy Crookes",
         music: "music/feetdontfail.mp3"
-    },
+    }
 ]
