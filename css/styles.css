@@ -120,3 +120,7 @@ body{
 .seek_slider{
     width: 60%;
 }
+
+.volume_slider{
+    width: 30%;
+}
