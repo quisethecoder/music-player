@@ -22,21 +22,51 @@ let updateTimer;
 
 const music_list = [
     {
-        img : "images/falling.jpg",
-        name: "Falling Down",
-        artist: "Wid Cards",
-        music: "music/fallingdown.mp3"
+        img : "images/ratherbe.jpg",
+        name:  "Rather Be",
+        artist: "Clean Bandit",
+        music: "music/ratherbe.mp3"
     },
     {
-        img : "images/sunfade.jpg",
-        name: "Falling Down",
-        artist: "Wid Cards",
-        music: "music/"
+        img : "images/waterfall.jpg",
+        name: "Waterfall",
+        artist: "Diclosure x Raye",
+        music: "music/waterfall.jpg"
     },
     {
-        img : "images/falling.jpg",
+        img : "images/neverforgetyou.jpg",
+        name: "Never Forget",
+        artist: "Zara Larsson",
+        music: "music/neverforget.mp3"
+    },
+    {
+        img : "images/radiohead.jpg",
         name: "Falling Down",
-        artist: "Wid Cards",
-        music: "music/fallingdown.mp3"
-    }
+        artist: "Radiohead",
+        music: "music/opt.mp3"
+    },
+    {
+        img : "images/replay.jpg",
+        name: "Replay",
+        artist: "Tems",
+        music: "music/replay.mp3"
+    },
+    {
+        img : "images/wwyd.jpg",
+        name: "What Would You Do?",
+        artist: "Bryson Tiller",
+        music: "music/wwyd.mp3"
+    },
+    {
+        img : "images/yellow.jpg",
+        name: "Yellow",
+        artist: "Coldplay",
+        music: "music/yellow.mp3"
+    },
+    {
+        img : "images/feetdontfail.jpg",
+        name: "Feet Don't Fail Me Now",
+        artist: "Joy Crookes",
+        music: "music/feetdontfail.mp3"
+    },
 ]
