@@ -13,5 +13,30 @@ let curr_time = document.querySelector(".current-time");
 let total_duration = document.querySelector(".total-duration");
 let wave = document.getElementById("wave");
 let randomIcon = document.querySelector(".fa-random");
+let curr_track = document.createElement("audio");
 
+let track_index = 0;
+let isPlaying = false;
+let isRandom = false;
+let updateTimer;
 
+const music_list = [
+    {
+        img : "images/falling.jpg",
+        name: "Falling Down",
+        artist: "Wid Cards",
+        music: "music/fallingdown.mp3"
+    },
+    {
+        img : "images/falling.jpg",
+        name: "Falling Down",
+        artist: "Wid Cards",
+        music: "music/fallingdown.mp3"
+    },
+    {
+        img : "images/falling.jpg",
+        name: "Falling Down",
+        artist: "Wid Cards",
+        music: "music/fallingdown.mp3"
+    }
+]
