@@ -116,3 +116,7 @@ body{
 .volume_slider:hover{
     opacity: 1.0;
 }
+
+.seek_slider{
+    width: 60%;
+}
