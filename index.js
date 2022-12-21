@@ -178,3 +178,8 @@ function prevTrack(){
     loadTrack(track_index);
     playTrack();
 }
+
+function seekTo(){
+    let seekto = curr_track.duration * (seek_slider.value / 100);
+    curr_track.currentTime = seekto;
+}
