@@ -22,10 +22,10 @@ let updateTimer;
 
 const music_list = [
     {
-        img : "images/ratherbe.jpg",
-        name:  "Rather Be",
-        artist: "Clean Bandit",
-        music: "music/ratherbe.mp3"
+        img : "images/replay.jpg",
+        name: "Replay",
+        artist: "Tems",
+        music: "music/replay.mp3"
     },
     {
         img : "images/waterfall.jpg",
@@ -46,10 +46,10 @@ const music_list = [
         music: "music/opt.mp3"
     },
     {
-        img : "images/replay.jpg",
-        name: "Replay",
-        artist: "Tems",
-        music: "music/replay.mp3"
+        img : "images/ratherbe.jpg",
+        name:  "Rather Be",
+        artist: "Clean Bandit",
+        music: "music/ratherbe.mp3"  
     },
     {
         img : "images/wwyd.jpg",
