@@ -168,3 +168,13 @@ function nextTrack(){
     loadTrack(track_index);
     playTrack();
 }
+
+function prevTrack(){
+    if(track > 0){
+        track -= 1;
+    }else{
+        track_index = music_list.length -1;
+    }
+    loadTrack(track_index);
+    playTrack();
+}
