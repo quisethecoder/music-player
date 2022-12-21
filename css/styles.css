@@ -172,7 +172,7 @@ i.fa-step-backward{
     height: 150%;
     width: 10px;
     border-radius: 50px;
-    margin: 0px 50px;
+    margin: 0 50px;
     animation: animate 1.4s linear infinite;
 }
 
@@ -182,6 +182,7 @@ i.fa-step-backward{
         background: #4186f4;
     }
     100%{
+        background: #4186f4;
         height: 100%
     }
 }
