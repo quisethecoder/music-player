@@ -1,4 +1,4 @@
-# music-player
+# Music Player
 
 Summary: This is my version of a Music Player called Motify(Marquise's Spotify). In this app you can play, pause, rewind, go back, go forward, and shuffle like you would on Apple Music or Spotify. It has a beautiful UI design and some of my favorite radio friendly songs.
 
